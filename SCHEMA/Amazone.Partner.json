@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "67676cdf9cb193bad17501e3"
+  },
+  "name": "John Doe",
+  "location": "53.4820, -2.2450",
+  "status": "Idle",
+  "delivery_errand": false,
+  "orders": [],
+  "pay_outs": 1200.5
+},
+{
+  "_id": {
+    "$oid": "67676cdf9cb193bad17501e4"
+  },
+  "name": "Jane Smith",
+  "location": "53.4800, -2.2400",
+  "status": "Active",
+  "delivery_errand": true,
+  "orders": [
+    1
+  ],
+  "pay_outs": 1500
+},
+{
+  "_id": {
+    "$oid": "67676cdf9cb193bad17501e5"
+  },
+  "name": "Paul Johnson",
+  "location": "53.4830, -2.2460",
+  "status": "Idle",
+  "delivery_errand": false,
+  "orders": [],
+  "pay_outs": 900
+},
+{
+  "_id": {
+    "$oid": "67676cdf9cb193bad17501e6"
+  },
+  "name": "Emily Brown",
+  "location": "53.4815, -2.2430",
+  "status": "Active",
+  "delivery_errand": true,
+  "orders": [
+    2
+  ],
+  "pay_outs": 1700.75
+},
+{
+  "_id": {
+    "$oid": "67676cdf9cb193bad17501e7"
+  },
+  "name": "Michael Lee",
+  "location": "53.4845, -2.2475",
+  "status": "Idle",
+  "delivery_errand": false,
+  "orders": [],
+  "pay_outs": 800
+}]

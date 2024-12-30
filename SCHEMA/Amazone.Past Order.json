@@ -1,0 +1,1900 @@
+[{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c66"
+  },
+  "order_cost": "58.21",
+  "customer": 1,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 21,
+      "count": 3
+    },
+    {
+      "product_ID": 25,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c67"
+  },
+  "order_cost": "76.44",
+  "customer": 1,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 21,
+      "count": 5
+    },
+    {
+      "product_ID": 8,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c68"
+  },
+  "order_cost": "73.79",
+  "customer": 1,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 14,
+      "count": 1
+    },
+    {
+      "product_ID": 29,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c69"
+  },
+  "order_cost": "25.30",
+  "customer": 1,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 18,
+      "count": 1
+    },
+    {
+      "product_ID": 40,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c6a"
+  },
+  "order_cost": "77.61",
+  "customer": 1,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 2,
+      "count": 3
+    },
+    {
+      "product_ID": 4,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c6b"
+  },
+  "order_cost": "39.08",
+  "customer": 2,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 6,
+      "count": 2
+    },
+    {
+      "product_ID": 18,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c6c"
+  },
+  "order_cost": "81.94",
+  "customer": 2,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 24,
+      "count": 4
+    },
+    {
+      "product_ID": 2,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c6d"
+  },
+  "order_cost": "40.01",
+  "customer": 2,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 25,
+      "count": 1
+    },
+    {
+      "product_ID": 39,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c6e"
+  },
+  "order_cost": "23.09",
+  "customer": 2,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 24,
+      "count": 2
+    },
+    {
+      "product_ID": 40,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c6f"
+  },
+  "order_cost": "72.34",
+  "customer": 2,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 22,
+      "count": 5
+    },
+    {
+      "product_ID": 33,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c70"
+  },
+  "order_cost": "97.17",
+  "customer": 3,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 32,
+      "count": 3
+    },
+    {
+      "product_ID": 22,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c71"
+  },
+  "order_cost": "59.95",
+  "customer": 3,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 10,
+      "count": 2
+    },
+    {
+      "product_ID": 28,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c72"
+  },
+  "order_cost": "44.10",
+  "customer": 3,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 40,
+      "count": 1
+    },
+    {
+      "product_ID": 2,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c73"
+  },
+  "order_cost": "29.45",
+  "customer": 3,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 10,
+      "count": 4
+    },
+    {
+      "product_ID": 1,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c74"
+  },
+  "order_cost": "23.98",
+  "customer": 3,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 40,
+      "count": 2
+    },
+    {
+      "product_ID": 39,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c75"
+  },
+  "order_cost": "33.45",
+  "customer": 4,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 24,
+      "count": 2
+    },
+    {
+      "product_ID": 39,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c76"
+  },
+  "order_cost": "42.23",
+  "customer": 4,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 18,
+      "count": 5
+    },
+    {
+      "product_ID": 2,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c77"
+  },
+  "order_cost": "39.62",
+  "customer": 4,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 1,
+      "count": 5
+    },
+    {
+      "product_ID": 2,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c78"
+  },
+  "order_cost": "109.73",
+  "customer": 4,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 20,
+      "count": 1
+    },
+    {
+      "product_ID": 28,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c79"
+  },
+  "order_cost": "109.87",
+  "customer": 4,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 7,
+      "count": 2
+    },
+    {
+      "product_ID": 7,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c7a"
+  },
+  "order_cost": "61.81",
+  "customer": 5,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 23,
+      "count": 4
+    },
+    {
+      "product_ID": 2,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c7b"
+  },
+  "order_cost": "20.46",
+  "customer": 5,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 30,
+      "count": 3
+    },
+    {
+      "product_ID": 11,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c7c"
+  },
+  "order_cost": "24.09",
+  "customer": 5,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 30,
+      "count": 2
+    },
+    {
+      "product_ID": 28,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c7d"
+  },
+  "order_cost": "51.82",
+  "customer": 5,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 28,
+      "count": 3
+    },
+    {
+      "product_ID": 18,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c7e"
+  },
+  "order_cost": "116.32",
+  "customer": 5,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 21,
+      "count": 3
+    },
+    {
+      "product_ID": 1,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c7f"
+  },
+  "order_cost": "117.08",
+  "customer": 6,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 3,
+      "count": 2
+    },
+    {
+      "product_ID": 38,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c80"
+  },
+  "order_cost": "63.04",
+  "customer": 6,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 20,
+      "count": 1
+    },
+    {
+      "product_ID": 10,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c81"
+  },
+  "order_cost": "32.54",
+  "customer": 6,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 40,
+      "count": 2
+    },
+    {
+      "product_ID": 19,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c82"
+  },
+  "order_cost": "54.61",
+  "customer": 6,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 20,
+      "count": 3
+    },
+    {
+      "product_ID": 4,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c83"
+  },
+  "order_cost": "20.28",
+  "customer": 6,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 36,
+      "count": 5
+    },
+    {
+      "product_ID": 15,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c84"
+  },
+  "order_cost": "42.85",
+  "customer": 7,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 19,
+      "count": 3
+    },
+    {
+      "product_ID": 37,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c85"
+  },
+  "order_cost": "87.31",
+  "customer": 7,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 7,
+      "count": 5
+    },
+    {
+      "product_ID": 5,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c86"
+  },
+  "order_cost": "100.79",
+  "customer": 7,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 40,
+      "count": 3
+    },
+    {
+      "product_ID": 15,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c87"
+  },
+  "order_cost": "116.27",
+  "customer": 7,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 19,
+      "count": 4
+    },
+    {
+      "product_ID": 37,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c88"
+  },
+  "order_cost": "72.94",
+  "customer": 7,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 20,
+      "count": 3
+    },
+    {
+      "product_ID": 3,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c89"
+  },
+  "order_cost": "69.90",
+  "customer": 8,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 8,
+      "count": 1
+    },
+    {
+      "product_ID": 25,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c8a"
+  },
+  "order_cost": "113.38",
+  "customer": 8,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 34,
+      "count": 3
+    },
+    {
+      "product_ID": 36,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c8b"
+  },
+  "order_cost": "30.86",
+  "customer": 8,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 2,
+      "count": 4
+    },
+    {
+      "product_ID": 13,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c8c"
+  },
+  "order_cost": "48.06",
+  "customer": 8,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 12,
+      "count": 4
+    },
+    {
+      "product_ID": 37,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c8d"
+  },
+  "order_cost": "29.01",
+  "customer": 8,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 13,
+      "count": 2
+    },
+    {
+      "product_ID": 29,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c8e"
+  },
+  "order_cost": "44.03",
+  "customer": 9,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 23,
+      "count": 2
+    },
+    {
+      "product_ID": 25,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c8f"
+  },
+  "order_cost": "65.81",
+  "customer": 9,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 30,
+      "count": 3
+    },
+    {
+      "product_ID": 20,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c90"
+  },
+  "order_cost": "58.72",
+  "customer": 9,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 8,
+      "count": 5
+    },
+    {
+      "product_ID": 39,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c91"
+  },
+  "order_cost": "51.68",
+  "customer": 9,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 39,
+      "count": 1
+    },
+    {
+      "product_ID": 33,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c92"
+  },
+  "order_cost": "104.62",
+  "customer": 9,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 11,
+      "count": 3
+    },
+    {
+      "product_ID": 7,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c93"
+  },
+  "order_cost": "114.10",
+  "customer": 10,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 24,
+      "count": 2
+    },
+    {
+      "product_ID": 27,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c94"
+  },
+  "order_cost": "27.08",
+  "customer": 10,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 19,
+      "count": 5
+    },
+    {
+      "product_ID": 23,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c95"
+  },
+  "order_cost": "37.45",
+  "customer": 10,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 6,
+      "count": 2
+    },
+    {
+      "product_ID": 16,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c96"
+  },
+  "order_cost": "67.44",
+  "customer": 10,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 8,
+      "count": 4
+    },
+    {
+      "product_ID": 1,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c97"
+  },
+  "order_cost": "61.72",
+  "customer": 10,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 1,
+      "count": 4
+    },
+    {
+      "product_ID": 23,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c98"
+  },
+  "order_cost": "49.32",
+  "customer": 11,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 31,
+      "count": 4
+    },
+    {
+      "product_ID": 28,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c99"
+  },
+  "order_cost": "38.63",
+  "customer": 11,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 25,
+      "count": 5
+    },
+    {
+      "product_ID": 11,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c9a"
+  },
+  "order_cost": "101.74",
+  "customer": 11,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 10,
+      "count": 3
+    },
+    {
+      "product_ID": 10,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c9b"
+  },
+  "order_cost": "39.29",
+  "customer": 11,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 32,
+      "count": 2
+    },
+    {
+      "product_ID": 27,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c9c"
+  },
+  "order_cost": "111.62",
+  "customer": 11,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 4,
+      "count": 4
+    },
+    {
+      "product_ID": 32,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c9d"
+  },
+  "order_cost": "76.15",
+  "customer": 12,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 4,
+      "count": 3
+    },
+    {
+      "product_ID": 14,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c9e"
+  },
+  "order_cost": "88.66",
+  "customer": 12,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 25,
+      "count": 5
+    },
+    {
+      "product_ID": 24,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076c9f"
+  },
+  "order_cost": "91.83",
+  "customer": 12,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 23,
+      "count": 3
+    },
+    {
+      "product_ID": 24,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076ca0"
+  },
+  "order_cost": "59.35",
+  "customer": 12,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 6,
+      "count": 4
+    },
+    {
+      "product_ID": 26,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076ca1"
+  },
+  "order_cost": "30.55",
+  "customer": 12,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 18,
+      "count": 4
+    },
+    {
+      "product_ID": 29,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076ca2"
+  },
+  "order_cost": "116.15",
+  "customer": 13,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 8,
+      "count": 3
+    },
+    {
+      "product_ID": 12,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076ca3"
+  },
+  "order_cost": "101.51",
+  "customer": 13,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 39,
+      "count": 4
+    },
+    {
+      "product_ID": 10,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076ca4"
+  },
+  "order_cost": "56.89",
+  "customer": 13,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 22,
+      "count": 1
+    },
+    {
+      "product_ID": 6,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076ca5"
+  },
+  "order_cost": "66.33",
+  "customer": 13,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 36,
+      "count": 5
+    },
+    {
+      "product_ID": 40,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076ca6"
+  },
+  "order_cost": "67.87",
+  "customer": 13,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 16,
+      "count": 3
+    },
+    {
+      "product_ID": 24,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076ca7"
+  },
+  "order_cost": "42.71",
+  "customer": 14,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 20,
+      "count": 3
+    },
+    {
+      "product_ID": 4,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076ca8"
+  },
+  "order_cost": "67.32",
+  "customer": 14,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 19,
+      "count": 1
+    },
+    {
+      "product_ID": 4,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076ca9"
+  },
+  "order_cost": "109.85",
+  "customer": 14,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 37,
+      "count": 1
+    },
+    {
+      "product_ID": 19,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076caa"
+  },
+  "order_cost": "20.79",
+  "customer": 14,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 20,
+      "count": 4
+    },
+    {
+      "product_ID": 20,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cab"
+  },
+  "order_cost": "94.56",
+  "customer": 14,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 24,
+      "count": 5
+    },
+    {
+      "product_ID": 20,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cac"
+  },
+  "order_cost": "81.19",
+  "customer": 15,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 18,
+      "count": 4
+    },
+    {
+      "product_ID": 13,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cad"
+  },
+  "order_cost": "27.84",
+  "customer": 15,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 14,
+      "count": 2
+    },
+    {
+      "product_ID": 6,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cae"
+  },
+  "order_cost": "23.00",
+  "customer": 15,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 12,
+      "count": 2
+    },
+    {
+      "product_ID": 33,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076caf"
+  },
+  "order_cost": "107.69",
+  "customer": 15,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 35,
+      "count": 1
+    },
+    {
+      "product_ID": 20,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cb0"
+  },
+  "order_cost": "96.79",
+  "customer": 15,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 9,
+      "count": 5
+    },
+    {
+      "product_ID": 23,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cb1"
+  },
+  "order_cost": "32.64",
+  "customer": 16,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 21,
+      "count": 4
+    },
+    {
+      "product_ID": 26,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cb2"
+  },
+  "order_cost": "58.25",
+  "customer": 16,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 33,
+      "count": 1
+    },
+    {
+      "product_ID": 34,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cb3"
+  },
+  "order_cost": "48.07",
+  "customer": 16,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 10,
+      "count": 5
+    },
+    {
+      "product_ID": 1,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cb4"
+  },
+  "order_cost": "58.64",
+  "customer": 16,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 11,
+      "count": 1
+    },
+    {
+      "product_ID": 2,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cb5"
+  },
+  "order_cost": "86.35",
+  "customer": 16,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 15,
+      "count": 4
+    },
+    {
+      "product_ID": 40,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cb6"
+  },
+  "order_cost": "109.61",
+  "customer": 17,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 20,
+      "count": 3
+    },
+    {
+      "product_ID": 12,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cb7"
+  },
+  "order_cost": "51.04",
+  "customer": 17,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 8,
+      "count": 2
+    },
+    {
+      "product_ID": 14,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cb8"
+  },
+  "order_cost": "29.61",
+  "customer": 17,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 36,
+      "count": 1
+    },
+    {
+      "product_ID": 36,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cb9"
+  },
+  "order_cost": "105.80",
+  "customer": 17,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 35,
+      "count": 5
+    },
+    {
+      "product_ID": 8,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cba"
+  },
+  "order_cost": "21.70",
+  "customer": 17,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 28,
+      "count": 3
+    },
+    {
+      "product_ID": 33,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cbb"
+  },
+  "order_cost": "76.86",
+  "customer": 18,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 26,
+      "count": 3
+    },
+    {
+      "product_ID": 30,
+      "count": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cbc"
+  },
+  "order_cost": "44.60",
+  "customer": 18,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 23,
+      "count": 5
+    },
+    {
+      "product_ID": 23,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cbd"
+  },
+  "order_cost": "43.03",
+  "customer": 18,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 36,
+      "count": 2
+    },
+    {
+      "product_ID": 16,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cbe"
+  },
+  "order_cost": "81.11",
+  "customer": 18,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 13,
+      "count": 5
+    },
+    {
+      "product_ID": 12,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cbf"
+  },
+  "order_cost": "29.36",
+  "customer": 18,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 33,
+      "count": 3
+    },
+    {
+      "product_ID": 22,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cc0"
+  },
+  "order_cost": "90.36",
+  "customer": 19,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 18,
+      "count": 3
+    },
+    {
+      "product_ID": 36,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cc1"
+  },
+  "order_cost": "116.07",
+  "customer": 19,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 2,
+      "count": 2
+    },
+    {
+      "product_ID": 11,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cc2"
+  },
+  "order_cost": "39.77",
+  "customer": 19,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 24,
+      "count": 1
+    },
+    {
+      "product_ID": 1,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cc3"
+  },
+  "order_cost": "118.62",
+  "customer": 19,
+  "delivery_method": "Delivery",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 25,
+      "count": 4
+    },
+    {
+      "product_ID": 3,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cc4"
+  },
+  "order_cost": "81.43",
+  "customer": 19,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 20,
+      "count": 5
+    },
+    {
+      "product_ID": 15,
+      "count": 4
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cc5"
+  },
+  "order_cost": "63.14",
+  "customer": 20,
+  "delivery_method": "Pickup",
+  "order_type": "Fresh",
+  "past_order_item": [
+    {
+      "product_ID": 37,
+      "count": 2
+    },
+    {
+      "product_ID": 16,
+      "count": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cc6"
+  },
+  "order_cost": "90.08",
+  "customer": 20,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 7,
+      "count": 3
+    },
+    {
+      "product_ID": 11,
+      "count": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cc7"
+  },
+  "order_cost": "29.89",
+  "customer": 20,
+  "delivery_method": "Delivery",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 36,
+      "count": 1
+    },
+    {
+      "product_ID": 26,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cc8"
+  },
+  "order_cost": "56.79",
+  "customer": 20,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 38,
+      "count": 4
+    },
+    {
+      "product_ID": 9,
+      "count": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67676e40db59d3c185076cc9"
+  },
+  "order_cost": "106.52",
+  "customer": 20,
+  "delivery_method": "Pickup",
+  "order_type": "Other",
+  "past_order_item": [
+    {
+      "product_ID": 36,
+      "count": 2
+    },
+    {
+      "product_ID": 28,
+      "count": 2
+    }
+  ]
+}]

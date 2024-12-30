@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "67676a9b3d7fd651c3a00a0b"
+  },
+  "product_name": "The Great Gatsby",
+  "category": "Books",
+  "standard_price_to_customers": 10.5,
+  "average_customer_rating_score": 4.8,
+  "detailed_information": {
+    "short_description": "Classic novel by F. Scott Fitzgerald",
+    "shipping_weight": "500g",
+    "dimensions": "20x15x2",
+    "author_name": [
+      "F. Scott Fitzgerald"
+    ],
+    "publisher": "Scribner",
+    "year_of_publication": 1925,
+    "ISBN": "9780743273565"
+  },
+  "cost_of_products_from_suppliers": 7
+},
+{
+  "_id": {
+    "$oid": "67676a9b3d7fd651c3a00a0c"
+  },
+  "product_name": "1984",
+  "category": "Books",
+  "standard_price_to_customers": 8.5,
+  "average_customer_rating_score": 4.7,
+  "detailed_information": {
+    "short_description": "Dystopian novel by George Orwell",
+    "shipping_weight": "400g",
+    "dimensions": "20x15x2",
+    "author_name": [
+      "George Orwell"
+    ],
+    "publisher": "Penguin",
+    "year_of_publication": 1949,
+    "ISBN": "9780451524935"
+  },
+  "cost_of_products_from_suppliers": 5.5
+},
+{
+  "_id": {
+    "$oid": "67676a9b3d7fd651c3a00a0d"
+  },
+  "product_name": "To Kill a Mockingbird",
+  "category": "Books",
+  "standard_price_to_customers": 12,
+  "average_customer_rating_score": 4.9,
+  "detailed_information": {
+    "short_description": "Novel by Harper Lee",
+    "shipping_weight": "450g",
+    "dimensions": "20x15x2",
+    "author_name": [
+      "Harper Lee"
+    ],
+    "publisher": "J.B. Lippincott & Co.",
+    "year_of_publication": 1960,
+    "ISBN": "9780060935467"
+  },
+  "cost_of_products_from_suppliers": 8
+},
+{
+  "_id": {
+    "$oid": "67676a9b3d7fd651c3a00a0e"
+  },
+  "product_name": "Moby Dick",
+  "category": "Books",
+  "standard_price_to_customers": 11,
+  "average_customer_rating_score": 4.6,
+  "detailed_information": {
+    "short_description": "Adventure novel by Herman Melville",
+    "shipping_weight": "500g",
+    "dimensions": "20x15x3",
+    "author_name": [
+      "Herman Melville"
+    ],
+    "publisher": "Harper & Brothers",
+    "year_of_publication": 1851,
+    "ISBN": "9780142437247"
+  },
+  "cost_of_products_from_suppliers": 7.5
+},
+{
+  "_id": {
+    "$oid": "67676a9b3d7fd651c3a00a0f"
+  },
+  "product_name": "Pride and Prejudice",
+  "category": "Books",
+  "standard_price_to_customers": 9,
+  "average_customer_rating_score": 4.8,
+  "detailed_information": {
+    "short_description": "Romantic novel by Jane Austen",
+    "shipping_weight": "350g",
+    "dimensions": "18x12x2",
+    "author_name": [
+      "Jane Austen"
+    ],
+    "publisher": "Thomas Egerton",
+    "year_of_publication": 1813,
+    "ISBN": "9781503290563"
+  },
+  "cost_of_products_from_suppliers": 6
+},
+{
+  "_id": {
+    "$oid": "67676a9b3d7fd651c3a00a10"
+  },
+  "product_name": "Thriller Album",
+  "category": "CDs",
+  "standard_price_to_customers": 15,
+  "average_customer_rating_score": 4.9,
+  "detailed_information": {
+    "short_description": "Michael Jackson's best-selling album",
+    "shipping_weight": "200g",
+    "dimensions": "12x12x1",
+    "artist_name": "Michael Jackson",
+    "number_of_tracks": 9,
+    "total_playing_time": 42
+  },
+  "cost_of_products_from_suppliers": 10
+},
+{
+  "_id": {
+    "$oid": "67676a9b3d7fd651c3a00a11"
+  },
+  "product_name": "Back in Black",
+  "category": "CDs",
+  "standard_price_to_customers": 13,
+  "average_customer_rating_score": 4.8,
+  "detailed_information": {
+    "short_description": "AC/DC's legendary rock album",
+    "shipping_weight": "250g",
+    "dimensions": "12x12x1",
+    "artist_name": "AC/DC",
+    "number_of_tracks": 10,
+    "total_playing_time": 41
+  },
+  "cost_of_products_from_suppliers": 9
+},
+{
+  "_id": {
+    "$oid": "67676a9b3d7fd651c3a00a12"
+  },
+  "product_name": "Abbey Road",
+  "category": "CDs",
+  "standard_price_to_customers": 14.5,
+  "average_customer_rating_score": 4.9,
+  "detailed_information": {
+    "short_description": "The Beatles' classic album",
+    "shipping_weight": "200g",
+    "dimensions": "12x12x1",
+    "artist_name": "The Beatles",
+    "number_of_tracks": 17,
+    "total_playing_time": 47
+  },
+  "cost_of_products_from_suppliers": 11
+},
+{
+  "_id": {
+    "$oid": "67676a9b3d7fd651c3a00a13"
+  },
+  "product_name": "The Dark Side of the Moon",
+  "category": "CDs",
+  "standard_price_to_customers": 15,
+  "average_customer_rating_score": 4.8,
+  "detailed_information": {
+    "short_description": "Pink Floyd's iconic album",
+    "shipping_weight": "300g",
+    "dimensions": "12x12x1",
+    "artist_name": "Pink Floyd",
+    "number_of_tracks": 10,
+    "total_playing_time": 43
+  },
+  "cost_of_products_from_suppliers": 10
+},
+{
+  "_id": {
+    "$oid": "67676a9b3d7fd651c3a00a14"
+  },
+  "product_name": "Rumours",
+  "category": "CDs",
+  "standard_price_to_customers": 14,
+  "average_customer_rating_score": 4.7,
+  "detailed_information": {
+    "short_description": "Fleetwood Mac's masterpiece",
+    "shipping_weight": "200g",
+    "dimensions": "12x12x1",
+    "artist_name": "Fleetwood Mac",
+    "number_of_tracks": 11,
+    "total_playing_time": 39
+  },
+  "cost_of_products_from_suppliers": 9
+},
+{
+  "_id": {
+    "$oid": "67676a9b3d7fd651c3a00a15"
+  },
+  "product_name": "iPhone 14",
+  "category": "Mobile Phones",
+  "standard_price_to_customers": 999,
+  "average_customer_rating_score": 4.9,
+  "detailed_information": {
+    "short_description": "Latest model of iPhone with 128GB storage",
+    "shipping_weight": "300g",
+    "dimensions": "15x7x1",
+    "brand": "Apple",
+    "model": "14",
+    "color": "Black",
+    "features": "5G, Dual Camera, iOS 16"
+  },
+  "cost_of_products_from_suppliers": 850
+},
+{
+  "_id": {
+    "$oid": "67676a9b3d7fd651c3a00a16"
+  },
+  "product_name": "Samsung Galaxy S23",
+  "category": "Mobile Phones",
+  "standard_price_to_customers": 899,
+  "average_customer_rating_score": 4.8,
+  "detailed_information": {
+    "short_description": "Flagship Samsung phone with 256GB storage",
+    "shipping_weight": "320g",
+    "dimensions": "15x7x1",
+    "brand": "Samsung",
+    "model": "S23",
+    "color": "Phantom Black",
+    "features": "5G, Triple Camera, Android 13"
+  },
+  "cost_of_products_from_suppliers": 800
+},
+{
+  "_id": {
+    "$oid": "67676a9b3d7fd651c3a00a17"
+  },
+  "product_name": "Google Pixel 7",
+  "category": "Mobile Phones",
+  "standard_price_to_customers": 599,
+  "average_customer_rating_score": 4.7,
+  "detailed_information": {
+    "short_description": "Google's latest Pixel with AI-enhanced features",
+    "shipping_weight": "290g",
+    "dimensions": "15x7x1",
+    "brand": "Google",
+    "model": "Pixel 7",
+    "color": "White",
+    "features": "5G, Dual Camera, Android 13"
+  },
+  "cost_of_products_from_suppliers": 500
+},
+{
+  "_id": {
+    "$oid": "67676a9b3d7fd651c3a00a18"
+  },
+  "product_name": "OnePlus 11",
+  "category": "Mobile Phones",
+  "standard_price_to_customers": 699,
+  "average_customer_rating_score": 4.6,
+  "detailed_information": {
+    "short_description": "OnePlus flagship with ultra-fast charging",
+    "shipping_weight": "310g",
+    "dimensions": "16x7x1",
+    "brand": "OnePlus",
+    "model": "11",
+    "color": "Green",
+    "features": "5G, Triple Camera, Android 13"
+  },
+  "cost_of_products_from_suppliers": 600
+},
+{
+  "_id": {
+    "$oid": "67676a9b3d7fd651c3a00a19"
+  },
+  "product_name": "Sony Xperia 5",
+  "category": "Mobile Phones",
+  "standard_price_to_customers": 799,
+  "average_customer_rating_score": 4.5,
+  "detailed_information": {
+    "short_description": "Sony's compact powerhouse with 4K display",
+    "shipping_weight": "290g",
+    "dimensions": "15x7x1",
+    "brand": "Sony",
+    "model": "Xperia 5",
+    "color": "Blue",
+    "features": "5G, Dual Camera, Android 13"
+  },
+  "cost_of_products_from_suppliers": 700
+}]

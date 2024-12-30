@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "67676b9c6343fe3d3dc6bf08"
+  },
+  "name": "Store 1",
+  "address": "123 Main Street, Manchester",
+  "location": "53.4808, -2.2426",
+  "postcode": "M1 1AE"
+},
+{
+  "_id": {
+    "$oid": "67676b9c6343fe3d3dc6bf09"
+  },
+  "name": "Store 2",
+  "address": "456 Market Street, Manchester",
+  "location": "53.4810, -2.2400",
+  "postcode": "M1 3AE"
+},
+{
+  "_id": {
+    "$oid": "67676b9c6343fe3d3dc6bf0a"
+  },
+  "name": "Store 3",
+  "address": "789 High Street, Manchester",
+  "location": "53.4835, -2.2450",
+  "postcode": "M1 5AE"
+},
+{
+  "_id": {
+    "$oid": "67676b9c6343fe3d3dc6bf0b"
+  },
+  "name": "Store 4",
+  "address": "321 Elm Avenue, Manchester",
+  "location": "53.4790, -2.2475",
+  "postcode": "M1 7AE"
+},
+{
+  "_id": {
+    "$oid": "67676b9c6343fe3d3dc6bf0c"
+  },
+  "name": "Store 5",
+  "address": "654 Oak Lane, Manchester",
+  "location": "53.4820, -2.2430",
+  "postcode": "M1 9AE"
+}]

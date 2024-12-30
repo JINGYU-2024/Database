@@ -1,0 +1,318 @@
+[{
+  "_id": {
+    "$oid": "6767693633fe265a434485b6"
+  },
+  "product_name": "Bananas",
+  "category": "Fruits and Vegetables",
+  "standard_price_to_customers": 1.2,
+  "average_customer_rating_score": 4.5,
+  "detailed_information": {
+    "short_description": "Fresh bananas from Ecuador",
+    "product_weight_or_quantity": "1 kg",
+    "dimensions": "20x10x5",
+    "expiry_date": "2024-12-31",
+    "country_of_origin": "Ecuador"
+  },
+  "cost_of_products_from_morrizon": 0.8,
+  "available_stores": [
+    1,
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485b7"
+  },
+  "product_name": "Apples",
+  "category": "Fruits and Vegetables",
+  "standard_price_to_customers": 1.5,
+  "average_customer_rating_score": 4.7,
+  "detailed_information": {
+    "short_description": "Crisp red apples from France",
+    "product_weight_or_quantity": "1 kg",
+    "dimensions": "20x10x5",
+    "expiry_date": "2024-12-29",
+    "country_of_origin": "France"
+  },
+  "cost_of_products_from_morrizon": 1,
+  "available_stores": [
+    1,
+    4,
+    5
+  ]
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485b8"
+  },
+  "product_name": "Carrots",
+  "category": "Fruits and Vegetables",
+  "standard_price_to_customers": 0.9,
+  "average_customer_rating_score": 4.3,
+  "detailed_information": {
+    "short_description": "Organic carrots from local farms",
+    "product_weight_or_quantity": "500g",
+    "dimensions": "15x5x5",
+    "expiry_date": "2024-12-27",
+    "country_of_origin": "UK"
+  },
+  "cost_of_products_from_morrizon": 0.5,
+  "available_stores": [
+    2,
+    3,
+    5
+  ]
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485b9"
+  },
+  "product_name": "Lettuce",
+  "category": "Fruits and Vegetables",
+  "standard_price_to_customers": 1,
+  "average_customer_rating_score": 4.4,
+  "detailed_information": {
+    "short_description": "Fresh green lettuce",
+    "product_weight_or_quantity": "500g",
+    "dimensions": "10x10x5",
+    "expiry_date": "2024-12-24",
+    "country_of_origin": "Netherlands"
+  },
+  "cost_of_products_from_morrizon": 0.6,
+  "available_stores": [
+    1,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485ba"
+  },
+  "product_name": "Strawberries",
+  "category": "Fruits and Vegetables",
+  "standard_price_to_customers": 2.5,
+  "average_customer_rating_score": 4.8,
+  "detailed_information": {
+    "short_description": "Juicy strawberries from Spain",
+    "product_weight_or_quantity": "250g",
+    "dimensions": "15x10x5",
+    "expiry_date": "2024-12-26",
+    "country_of_origin": "Spain"
+  },
+  "cost_of_products_from_morrizon": 1.8,
+  "available_stores": [
+    2,
+    4
+  ]
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485bb"
+  },
+  "product_name": "Bread",
+  "category": "Bakery",
+  "standard_price_to_customers": 1,
+  "average_customer_rating_score": 4.2,
+  "detailed_information": {
+    "short_description": "Wholegrain bread loaf",
+    "product_weight_or_quantity": "500g",
+    "dimensions": "10x5x5",
+    "expiry_date": "2024-12-25",
+    "country_of_origin": "UK"
+  },
+  "cost_of_products_from_morrizon": 0.5,
+  "available_stores": [
+    2,
+    4
+  ]
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485bc"
+  },
+  "product_name": "Croissants",
+  "category": "Bakery",
+  "standard_price_to_customers": 1.8,
+  "average_customer_rating_score": 4.6,
+  "detailed_information": {
+    "short_description": "Buttery croissants",
+    "product_weight_or_quantity": "200g",
+    "dimensions": "15x10x5",
+    "expiry_date": "2024-12-24",
+    "country_of_origin": "France"
+  },
+  "cost_of_products_from_morrizon": 1.2,
+  "available_stores": [
+    1,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485bd"
+  },
+  "product_name": "Bagels",
+  "category": "Bakery",
+  "standard_price_to_customers": 2,
+  "average_customer_rating_score": 4.3,
+  "detailed_information": {
+    "short_description": "Classic bagels with sesame seeds",
+    "product_weight_or_quantity": "400g",
+    "dimensions": "10x10x5",
+    "expiry_date": "2024-12-26",
+    "country_of_origin": "USA"
+  },
+  "cost_of_products_from_morrizon": 1.5,
+  "available_stores": [
+    2,
+    5
+  ]
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485be"
+  },
+  "product_name": "Muffins",
+  "category": "Bakery",
+  "standard_price_to_customers": 2.2,
+  "average_customer_rating_score": 4.4,
+  "detailed_information": {
+    "short_description": "Chocolate chip muffins",
+    "product_weight_or_quantity": "300g",
+    "dimensions": "10x10x5",
+    "expiry_date": "2024-12-28",
+    "country_of_origin": "UK"
+  },
+  "cost_of_products_from_morrizon": 1.8,
+  "available_stores": [
+    1,
+    4
+  ]
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485bf"
+  },
+  "product_name": "Sourdough",
+  "category": "Bakery",
+  "standard_price_to_customers": 2.5,
+  "average_customer_rating_score": 4.7,
+  "detailed_information": {
+    "short_description": "Traditional sourdough bread",
+    "product_weight_or_quantity": "600g",
+    "dimensions": "15x10x5",
+    "expiry_date": "2024-12-29",
+    "country_of_origin": "Germany"
+  },
+  "cost_of_products_from_morrizon": 2,
+  "available_stores": [
+    3,
+    5
+  ]
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485c0"
+  },
+  "product_name": "Orange Juice",
+  "category": "Drinks",
+  "standard_price_to_customers": 2,
+  "average_customer_rating_score": 4.6,
+  "detailed_information": {
+    "short_description": "Freshly squeezed orange juice",
+    "product_weight_or_quantity": "1L",
+    "dimensions": "10x5x20",
+    "expiry_date": "2024-12-23",
+    "country_of_origin": "Brazil"
+  },
+  "cost_of_products_from_morrizon": 1.5,
+  "available_stores": [
+    1,
+    4
+  ]
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485c1"
+  },
+  "product_name": "Milk",
+  "category": "Drinks",
+  "standard_price_to_customers": 1.2,
+  "average_customer_rating_score": 4.5,
+  "detailed_information": {
+    "short_description": "Fresh whole milk",
+    "product_weight_or_quantity": "2L",
+    "dimensions": "10x10x25",
+    "expiry_date": "2024-12-22",
+    "country_of_origin": "UK"
+  },
+  "cost_of_products_from_morrizon": 0.9,
+  "available_stores": [
+    2,
+    3
+  ]
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485c2"
+  },
+  "product_name": "Sparkling Water",
+  "category": "Drinks",
+  "standard_price_to_customers": 1.5,
+  "average_customer_rating_score": 4.4,
+  "detailed_information": {
+    "short_description": "Sparkling water with natural minerals",
+    "product_weight_or_quantity": "1L",
+    "dimensions": "10x5x30",
+    "expiry_date": "2024-12-30",
+    "country_of_origin": "Italy"
+  },
+  "cost_of_products_from_morrizon": 1,
+  "available_stores": [
+    3,
+    5
+  ]
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485c3"
+  },
+  "product_name": "Cola",
+  "category": "Drinks",
+  "standard_price_to_customers": 1,
+  "average_customer_rating_score": 4.3,
+  "detailed_information": {
+    "short_description": "Classic cola drink",
+    "product_weight_or_quantity": "500ml",
+    "dimensions": "5x5x15",
+    "expiry_date": "2024-12-20",
+    "country_of_origin": "USA"
+  },
+  "cost_of_products_from_morrizon": 0.6,
+  "available_stores": [
+    1,
+    5
+  ]
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485c4"
+  },
+  "product_name": "Green Tea",
+  "category": "Drinks",
+  "standard_price_to_customers": 2.5,
+  "average_customer_rating_score": 4.8,
+  "detailed_information": {
+    "short_description": "Organic green tea",
+    "product_weight_or_quantity": "250g",
+    "dimensions": "10x10x5",
+    "expiry_date": "2024-12-31",
+    "country_of_origin": "China"
+  },
+  "cost_of_products_from_morrizon": 1.8,
+  "available_stores": [
+    2,
+    4
+  ]
+}]

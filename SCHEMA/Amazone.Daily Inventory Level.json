@@ -1,0 +1,800 @@
+[{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cca"
+  },
+  "product": 1,
+  "date": "2024-12-20",
+  "inventory_quantity": 5,
+  "storage_warehouse_name": "Warehouse 1",
+  "storage_warehouse_location": "53.4895, -2.2462"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ccb"
+  },
+  "product": 1,
+  "date": "2024-12-21",
+  "inventory_quantity": 23,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4837, -2.2476"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ccc"
+  },
+  "product": 2,
+  "date": "2024-12-20",
+  "inventory_quantity": 100,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4882, -2.2416"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ccd"
+  },
+  "product": 2,
+  "date": "2024-12-21",
+  "inventory_quantity": 58,
+  "storage_warehouse_name": "Warehouse 2",
+  "storage_warehouse_location": "53.4888, -2.2448"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cce"
+  },
+  "product": 3,
+  "date": "2024-12-20",
+  "inventory_quantity": 3,
+  "storage_warehouse_name": "Warehouse 1",
+  "storage_warehouse_location": "53.4842, -2.2401"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ccf"
+  },
+  "product": 3,
+  "date": "2024-12-21",
+  "inventory_quantity": 88,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4832, -2.2468"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cd0"
+  },
+  "product": 4,
+  "date": "2024-12-20",
+  "inventory_quantity": 1,
+  "storage_warehouse_name": "Warehouse 1",
+  "storage_warehouse_location": "53.4813, -2.2469"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cd1"
+  },
+  "product": 4,
+  "date": "2024-12-21",
+  "inventory_quantity": 54,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4820, -2.2500"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cd2"
+  },
+  "product": 5,
+  "date": "2024-12-20",
+  "inventory_quantity": 86,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4900, -2.2470"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cd3"
+  },
+  "product": 5,
+  "date": "2024-12-21",
+  "inventory_quantity": 19,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4864, -2.2461"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cd4"
+  },
+  "product": 6,
+  "date": "2024-12-20",
+  "inventory_quantity": 25,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4882, -2.2476"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cd5"
+  },
+  "product": 6,
+  "date": "2024-12-21",
+  "inventory_quantity": 88,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4831, -2.2402"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cd6"
+  },
+  "product": 7,
+  "date": "2024-12-20",
+  "inventory_quantity": 70,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4844, -2.2406"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cd7"
+  },
+  "product": 7,
+  "date": "2024-12-21",
+  "inventory_quantity": 35,
+  "storage_warehouse_name": "Warehouse 2",
+  "storage_warehouse_location": "53.4866, -2.2429"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cd8"
+  },
+  "product": 8,
+  "date": "2024-12-20",
+  "inventory_quantity": 17,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4874, -2.2450"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cd9"
+  },
+  "product": 8,
+  "date": "2024-12-21",
+  "inventory_quantity": 14,
+  "storage_warehouse_name": "Warehouse 1",
+  "storage_warehouse_location": "53.4845, -2.2481"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cda"
+  },
+  "product": 9,
+  "date": "2024-12-20",
+  "inventory_quantity": 86,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4821, -2.2459"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cdb"
+  },
+  "product": 9,
+  "date": "2024-12-21",
+  "inventory_quantity": 93,
+  "storage_warehouse_name": "Warehouse 2",
+  "storage_warehouse_location": "53.4851, -2.2420"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cdc"
+  },
+  "product": 10,
+  "date": "2024-12-20",
+  "inventory_quantity": 61,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4840, -2.2495"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cdd"
+  },
+  "product": 10,
+  "date": "2024-12-21",
+  "inventory_quantity": 23,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4894, -2.2461"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cde"
+  },
+  "product": 11,
+  "date": "2024-12-20",
+  "inventory_quantity": 4,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4811, -2.2466"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cdf"
+  },
+  "product": 11,
+  "date": "2024-12-21",
+  "inventory_quantity": 28,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4846, -2.2416"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ce0"
+  },
+  "product": 12,
+  "date": "2024-12-20",
+  "inventory_quantity": 98,
+  "storage_warehouse_name": "Warehouse 1",
+  "storage_warehouse_location": "53.4848, -2.2480"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ce1"
+  },
+  "product": 12,
+  "date": "2024-12-21",
+  "inventory_quantity": 57,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4848, -2.2439"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ce2"
+  },
+  "product": 13,
+  "date": "2024-12-20",
+  "inventory_quantity": 54,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4885, -2.2434"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ce3"
+  },
+  "product": 13,
+  "date": "2024-12-21",
+  "inventory_quantity": 79,
+  "storage_warehouse_name": "Warehouse 2",
+  "storage_warehouse_location": "53.4815, -2.2488"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ce4"
+  },
+  "product": 14,
+  "date": "2024-12-20",
+  "inventory_quantity": 43,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4834, -2.2408"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ce5"
+  },
+  "product": 14,
+  "date": "2024-12-21",
+  "inventory_quantity": 73,
+  "storage_warehouse_name": "Warehouse 2",
+  "storage_warehouse_location": "53.4830, -2.2436"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ce6"
+  },
+  "product": 15,
+  "date": "2024-12-20",
+  "inventory_quantity": 19,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4863, -2.2429"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ce7"
+  },
+  "product": 15,
+  "date": "2024-12-21",
+  "inventory_quantity": 71,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4897, -2.2496"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ce8"
+  },
+  "product": 16,
+  "date": "2024-12-20",
+  "inventory_quantity": 40,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4860, -2.2407"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ce9"
+  },
+  "product": 16,
+  "date": "2024-12-21",
+  "inventory_quantity": 8,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4809, -2.2470"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cea"
+  },
+  "product": 17,
+  "date": "2024-12-20",
+  "inventory_quantity": 20,
+  "storage_warehouse_name": "Warehouse 2",
+  "storage_warehouse_location": "53.4899, -2.2456"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ceb"
+  },
+  "product": 17,
+  "date": "2024-12-21",
+  "inventory_quantity": 44,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4871, -2.2479"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cec"
+  },
+  "product": 18,
+  "date": "2024-12-20",
+  "inventory_quantity": 44,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4829, -2.2413"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ced"
+  },
+  "product": 18,
+  "date": "2024-12-21",
+  "inventory_quantity": 82,
+  "storage_warehouse_name": "Warehouse 1",
+  "storage_warehouse_location": "53.4898, -2.2494"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cee"
+  },
+  "product": 19,
+  "date": "2024-12-20",
+  "inventory_quantity": 64,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4832, -2.2432"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cef"
+  },
+  "product": 19,
+  "date": "2024-12-21",
+  "inventory_quantity": 1,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4895, -2.2478"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cf0"
+  },
+  "product": 20,
+  "date": "2024-12-20",
+  "inventory_quantity": 20,
+  "storage_warehouse_name": "Warehouse 1",
+  "storage_warehouse_location": "53.4830, -2.2445"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cf1"
+  },
+  "product": 20,
+  "date": "2024-12-21",
+  "inventory_quantity": 49,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4875, -2.2495"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cf2"
+  },
+  "product": 21,
+  "date": "2024-12-20",
+  "inventory_quantity": 5,
+  "storage_warehouse_name": "Warehouse 2",
+  "storage_warehouse_location": "53.4802, -2.2463"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cf3"
+  },
+  "product": 21,
+  "date": "2024-12-21",
+  "inventory_quantity": 73,
+  "storage_warehouse_name": "Warehouse 2",
+  "storage_warehouse_location": "53.4828, -2.2494"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cf4"
+  },
+  "product": 22,
+  "date": "2024-12-20",
+  "inventory_quantity": 55,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4833, -2.2431"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cf5"
+  },
+  "product": 22,
+  "date": "2024-12-21",
+  "inventory_quantity": 31,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4867, -2.2411"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cf6"
+  },
+  "product": 23,
+  "date": "2024-12-20",
+  "inventory_quantity": 2,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4886, -2.2436"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cf7"
+  },
+  "product": 23,
+  "date": "2024-12-21",
+  "inventory_quantity": 53,
+  "storage_warehouse_name": "Warehouse 1",
+  "storage_warehouse_location": "53.4827, -2.2478"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cf8"
+  },
+  "product": 24,
+  "date": "2024-12-20",
+  "inventory_quantity": 100,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4839, -2.2402"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cf9"
+  },
+  "product": 24,
+  "date": "2024-12-21",
+  "inventory_quantity": 16,
+  "storage_warehouse_name": "Warehouse 2",
+  "storage_warehouse_location": "53.4855, -2.2450"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cfa"
+  },
+  "product": 25,
+  "date": "2024-12-20",
+  "inventory_quantity": 12,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4846, -2.2455"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cfb"
+  },
+  "product": 25,
+  "date": "2024-12-21",
+  "inventory_quantity": 23,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4806, -2.2463"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cfc"
+  },
+  "product": 26,
+  "date": "2024-12-20",
+  "inventory_quantity": 83,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4808, -2.2439"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cfd"
+  },
+  "product": 26,
+  "date": "2024-12-21",
+  "inventory_quantity": 64,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4884, -2.2481"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cfe"
+  },
+  "product": 27,
+  "date": "2024-12-20",
+  "inventory_quantity": 73,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4827, -2.2472"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cff"
+  },
+  "product": 27,
+  "date": "2024-12-21",
+  "inventory_quantity": 89,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4854, -2.2445"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d00"
+  },
+  "product": 28,
+  "date": "2024-12-20",
+  "inventory_quantity": 89,
+  "storage_warehouse_name": "Warehouse 1",
+  "storage_warehouse_location": "53.4879, -2.2426"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d01"
+  },
+  "product": 28,
+  "date": "2024-12-21",
+  "inventory_quantity": 12,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4804, -2.2415"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d02"
+  },
+  "product": 29,
+  "date": "2024-12-20",
+  "inventory_quantity": 66,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4878, -2.2447"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d03"
+  },
+  "product": 29,
+  "date": "2024-12-21",
+  "inventory_quantity": 65,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4811, -2.2436"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d04"
+  },
+  "product": 30,
+  "date": "2024-12-20",
+  "inventory_quantity": 91,
+  "storage_warehouse_name": "Warehouse 1",
+  "storage_warehouse_location": "53.4849, -2.2403"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d05"
+  },
+  "product": 30,
+  "date": "2024-12-21",
+  "inventory_quantity": 5,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4884, -2.2409"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d06"
+  },
+  "product": 31,
+  "date": "2024-12-20",
+  "inventory_quantity": 22,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4851, -2.2496"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d07"
+  },
+  "product": 31,
+  "date": "2024-12-21",
+  "inventory_quantity": 79,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4804, -2.2482"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d08"
+  },
+  "product": 32,
+  "date": "2024-12-20",
+  "inventory_quantity": 73,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4855, -2.2423"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d09"
+  },
+  "product": 32,
+  "date": "2024-12-21",
+  "inventory_quantity": 38,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4862, -2.2451"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d0a"
+  },
+  "product": 33,
+  "date": "2024-12-20",
+  "inventory_quantity": 94,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4836, -2.2413"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d0b"
+  },
+  "product": 33,
+  "date": "2024-12-21",
+  "inventory_quantity": 15,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4895, -2.2483"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d0c"
+  },
+  "product": 34,
+  "date": "2024-12-20",
+  "inventory_quantity": 82,
+  "storage_warehouse_name": "Warehouse 1",
+  "storage_warehouse_location": "53.4865, -2.2447"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d0d"
+  },
+  "product": 34,
+  "date": "2024-12-21",
+  "inventory_quantity": 83,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4892, -2.2481"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d0e"
+  },
+  "product": 35,
+  "date": "2024-12-20",
+  "inventory_quantity": 6,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4851, -2.2430"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d0f"
+  },
+  "product": 35,
+  "date": "2024-12-21",
+  "inventory_quantity": 15,
+  "storage_warehouse_name": "Warehouse 1",
+  "storage_warehouse_location": "53.4834, -2.2436"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d10"
+  },
+  "product": 36,
+  "date": "2024-12-20",
+  "inventory_quantity": 68,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4816, -2.2412"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d11"
+  },
+  "product": 36,
+  "date": "2024-12-21",
+  "inventory_quantity": 74,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4897, -2.2444"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d12"
+  },
+  "product": 37,
+  "date": "2024-12-20",
+  "inventory_quantity": 71,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4846, -2.2424"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d13"
+  },
+  "product": 37,
+  "date": "2024-12-21",
+  "inventory_quantity": 28,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4826, -2.2451"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d14"
+  },
+  "product": 38,
+  "date": "2024-12-20",
+  "inventory_quantity": 49,
+  "storage_warehouse_name": "Warehouse 2",
+  "storage_warehouse_location": "53.4815, -2.2471"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d15"
+  },
+  "product": 38,
+  "date": "2024-12-21",
+  "inventory_quantity": 89,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4884, -2.2413"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d16"
+  },
+  "product": 39,
+  "date": "2024-12-20",
+  "inventory_quantity": 51,
+  "storage_warehouse_name": "Warehouse 2",
+  "storage_warehouse_location": "53.4864, -2.2478"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d17"
+  },
+  "product": 39,
+  "date": "2024-12-21",
+  "inventory_quantity": 61,
+  "storage_warehouse_name": "Warehouse 5",
+  "storage_warehouse_location": "53.4888, -2.2408"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d18"
+  },
+  "product": 40,
+  "date": "2024-12-20",
+  "inventory_quantity": 61,
+  "storage_warehouse_name": "Warehouse 2",
+  "storage_warehouse_location": "53.4850, -2.2478"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d19"
+  },
+  "product": 40,
+  "date": "2024-12-21",
+  "inventory_quantity": 26,
+  "storage_warehouse_name": "Warehouse 2",
+  "storage_warehouse_location": "53.4900, -2.2478"
+}]
