@@ -1,0 +1,30 @@
+db.getCollection('Past Order').aggregate(
+  [
+    {
+      $group: {
+        _id: {
+          customer: '$customer',
+          order_type: '$order_type'
+        },
+        total_order_cost: {
+          $sum: { $toDouble: '$order_cost' }
+        }
+      }
+    },
+    {
+      $group: {
+        _id: '$_id.customer',
+        total_order_cost_per_type: {
+          $push: {
+            type: '$_id.order_type',
+            total: '$total_order_cost'
+          }
+        },
+        total_order_cost_all_types: {
+          $sum: '$total_order_cost'
+        }
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);

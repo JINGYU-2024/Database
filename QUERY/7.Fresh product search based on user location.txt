@@ -1,0 +1,22 @@
+db.getCollection(
+  'Amazone.Fresh Product'
+).aggregate(
+  [
+    {
+      $lookup: {
+        from: 'Amazone.Store',
+        localField: 'available_stores',
+        foreignField: '_id',
+        as: 'store_details'
+      }
+    },
+    {
+      $project: {
+        product_name: 1,
+        'store_details.name': 1,
+        'store_details.address': 1
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);

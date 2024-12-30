@@ -1,0 +1,30 @@
+db.getCollection('Past Order').aggregate(
+  [
+    {
+      $group: {
+        _id: '$order_type',
+        total_sales: { $sum: 1 },
+        total_revenue: {
+          $sum: { $toDouble: '$order_cost' }
+        }
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
+
+
+### Let’s visualize it in Python using Pandas and Matplotlib:
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Assume `result` is the output of the above MongoDB query
+result = [
+    {"_id": "Fresh", "total_sales": 200, "total_revenue": 5000},
+    {"_id": "Other", "total_sales": 150, "total_revenue": 4000}
+]
+
+df = pd.DataFrame(result)
+df.plot(kind="bar", x="_id", y="total_revenue", title="Sales by Category")
+plt.show()

@@ -1,0 +1,3 @@
+db.getCollection('Amazone.Fresh Product').find({
+  average_customer_rating_score: { $gte: 4.5 }
+});

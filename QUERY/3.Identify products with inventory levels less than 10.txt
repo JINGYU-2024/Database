@@ -1,0 +1,3 @@
+db.getCollection(
+  'Amazone.Daily Inventory Level'
+).find({ inventory_quantity: { $lt: 10 } });

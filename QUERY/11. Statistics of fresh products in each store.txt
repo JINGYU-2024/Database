@@ -1,0 +1,19 @@
+db.getCollection('Fresh Product').aggregate(
+  [
+    { $unwind: '$available_stores' },
+    {
+      $group: {
+        _id: '$available_stores',
+        store_id: { $first: '$available_stores' },
+        number_of_products_available: { $sum: 1 },
+        average_cost_of_products: {
+          $avg: '$cost_of_products_from_morrizon'
+        },
+        average_customer_rating_score: {
+          $avg: '$average_customer_rating_score'
+        }
+      }
+    }
+  ],
+  { maxTimeMS: 60000, allowDiskUse: true }
+);
