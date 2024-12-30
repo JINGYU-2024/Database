@@ -1,18 +1,12 @@
-  "Customer_Cart": [
-    {
-      "_id": "ObjectId('64bfc5e7c4d123456789abce')",
-      "customer_id": "64bfc5e7c4d123456789abcd",
-      "store_id": "64bfc5e7c4d123456789abcf",
-      "delivery_method": "Home Delivery",
-      "items": [
-        {
-          "product_id": "64bfc5e7c4d123456789abc1",
-          "quantity": 2
-        },
-        {
-          "product_id": "64bfc5e7c4d123456789abc2",
-          "quantity": 1
-        }
-      ]
-    }
-  ]
+Customer Cart{ 
+ _id: Int32 
+ customer ID: ref<Customer._id> 
+ cost: Double 
+ store ID: ref<Store._id> 
+ delivery method: String 
+ items: [{ 
+ _id: objectId
+ product ID: ref<Fresh Product._id> or ref<Other Product._id> 
+ quantity: Int32 
+}] 
+}
