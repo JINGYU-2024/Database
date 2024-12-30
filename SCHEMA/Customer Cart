@@ -1,1 +1,18 @@
-
+  "Customer_Cart": [
+    {
+      "_id": "ObjectId('64bfc5e7c4d123456789abce')",
+      "customer_id": "64bfc5e7c4d123456789abcd",
+      "store_id": "64bfc5e7c4d123456789abcf",
+      "delivery_method": "Home Delivery",
+      "items": [
+        {
+          "product_id": "64bfc5e7c4d123456789abc1",
+          "quantity": 2
+        },
+        {
+          "product_id": "64bfc5e7c4d123456789abc2",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
