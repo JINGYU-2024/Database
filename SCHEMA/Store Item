@@ -1,1 +1,8 @@
-
+ "Store_Item": [
+    {
+      "_id": "ObjectId('64bfc5e7c4d123456789abc1')",
+      "store_id": "64bfc5e7c4d123456789abcf",
+      "product_id": "64bfc5e7c4d123456789abc3",
+      "count": 50
+    }
+  ]
