@@ -1,0 +1,35 @@
+[{
+  "_id": 3,
+  "store_id": 3,
+  "number_of_products_available": 7,
+  "average_cost_of_products": 1,
+  "average_customer_rating_score": 4.485714285714286
+},
+{
+  "_id": 5,
+  "store_id": 5,
+  "number_of_products_available": 6,
+  "average_cost_of_products": 1.0999999999999999,
+  "average_customer_rating_score": 4.45
+},
+{
+  "_id": 1,
+  "store_id": 1,
+  "number_of_products_available": 7,
+  "average_cost_of_products": 1.0714285714285714,
+  "average_customer_rating_score": 4.5
+},
+{
+  "_id": 4,
+  "store_id": 4,
+  "number_of_products_available": 6,
+  "average_cost_of_products": 1.4000000000000001,
+  "average_customer_rating_score": 4.583333333333333
+},
+{
+  "_id": 2,
+  "store_id": 2,
+  "number_of_products_available": 7,
+  "average_cost_of_products": 1.1142857142857143,
+  "average_customer_rating_score": 4.485714285714286
+}]

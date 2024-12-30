@@ -1,0 +1,280 @@
+[{
+  "_id": 11,
+  "total_order_cost_per_type": [
+    {
+      "type": "Fresh",
+      "total": 189.69
+    },
+    {
+      "type": "Other",
+      "total": 150.91
+    }
+  ],
+  "total_order_cost_all_types": 340.6
+},
+{
+  "_id": 10,
+  "total_order_cost_per_type": [
+    {
+      "type": "Fresh",
+      "total": 61.72
+    },
+    {
+      "type": "Other",
+      "total": 246.07
+    }
+  ],
+  "total_order_cost_all_types": 307.78999999999996
+},
+{
+  "_id": 16,
+  "total_order_cost_per_type": [
+    {
+      "type": "Fresh",
+      "total": 58.64
+    },
+    {
+      "type": "Other",
+      "total": 225.31
+    }
+  ],
+  "total_order_cost_all_types": 283.95
+},
+{
+  "_id": 18,
+  "total_order_cost_per_type": [
+    {
+      "type": "Other",
+      "total": 155.07
+    },
+    {
+      "type": "Fresh",
+      "total": 119.89
+    }
+  ],
+  "total_order_cost_all_types": 274.96
+},
+{
+  "_id": 20,
+  "total_order_cost_per_type": [
+    {
+      "type": "Fresh",
+      "total": 63.14
+    },
+    {
+      "type": "Other",
+      "total": 283.28
+    }
+  ],
+  "total_order_cost_all_types": 346.41999999999996
+},
+{
+  "_id": 6,
+  "total_order_cost_per_type": [
+    {
+      "type": "Fresh",
+      "total": 137.93
+    },
+    {
+      "type": "Other",
+      "total": 149.62
+    }
+  ],
+  "total_order_cost_all_types": 287.55
+},
+{
+  "_id": 2,
+  "total_order_cost_per_type": [
+    {
+      "type": "Fresh",
+      "total": 95.43
+    },
+    {
+      "type": "Other",
+      "total": 161.03
+    }
+  ],
+  "total_order_cost_all_types": 256.46000000000004
+},
+{
+  "_id": 3,
+  "total_order_cost_per_type": [
+    {
+      "type": "Fresh",
+      "total": 170.72
+    },
+    {
+      "type": "Other",
+      "total": 83.93
+    }
+  ],
+  "total_order_cost_all_types": 254.65
+},
+{
+  "_id": 14,
+  "total_order_cost_per_type": [
+    {
+      "type": "Other",
+      "total": 42.71
+    },
+    {
+      "type": "Fresh",
+      "total": 292.52
+    }
+  ],
+  "total_order_cost_all_types": 335.22999999999996
+},
+{
+  "_id": 1,
+  "total_order_cost_per_type": [
+    {
+      "type": "Other",
+      "total": 73.79
+    },
+    {
+      "type": "Fresh",
+      "total": 237.56
+    }
+  ],
+  "total_order_cost_all_types": 311.35
+},
+{
+  "_id": 12,
+  "total_order_cost_per_type": [
+    {
+      "type": "Fresh",
+      "total": 180.49
+    },
+    {
+      "type": "Other",
+      "total": 166.05
+    }
+  ],
+  "total_order_cost_all_types": 346.54
+},
+{
+  "_id": 19,
+  "total_order_cost_per_type": [
+    {
+      "type": "Other",
+      "total": 206.43
+    },
+    {
+      "type": "Fresh",
+      "total": 239.82000000000002
+    }
+  ],
+  "total_order_cost_all_types": 446.25
+},
+{
+  "_id": 7,
+  "total_order_cost_per_type": [
+    {
+      "type": "Fresh",
+      "total": 290
+    },
+    {
+      "type": "Other",
+      "total": 130.16
+    }
+  ],
+  "total_order_cost_all_types": 420.15999999999997
+},
+{
+  "_id": 17,
+  "total_order_cost_per_type": [
+    {
+      "type": "Other",
+      "total": 131.31
+    },
+    {
+      "type": "Fresh",
+      "total": 186.45
+    }
+  ],
+  "total_order_cost_all_types": 317.76
+},
+{
+  "_id": 15,
+  "total_order_cost_per_type": [
+    {
+      "type": "Other",
+      "total": 285.67
+    },
+    {
+      "type": "Fresh",
+      "total": 50.84
+    }
+  ],
+  "total_order_cost_all_types": 336.51
+},
+{
+  "_id": 9,
+  "total_order_cost_per_type": [
+    {
+      "type": "Other",
+      "total": 95.71000000000001
+    },
+    {
+      "type": "Fresh",
+      "total": 229.15
+    }
+  ],
+  "total_order_cost_all_types": 324.86
+},
+{
+  "_id": 4,
+  "total_order_cost_per_type": [
+    {
+      "type": "Other",
+      "total": 191.57999999999998
+    },
+    {
+      "type": "Fresh",
+      "total": 143.32
+    }
+  ],
+  "total_order_cost_all_types": 334.9
+},
+{
+  "_id": 8,
+  "total_order_cost_per_type": [
+    {
+      "type": "Other",
+      "total": 231.34
+    },
+    {
+      "type": "Fresh",
+      "total": 59.870000000000005
+    }
+  ],
+  "total_order_cost_all_types": 291.21000000000004
+},
+{
+  "_id": 13,
+  "total_order_cost_per_type": [
+    {
+      "type": "Other",
+      "total": 101.51
+    },
+    {
+      "type": "Fresh",
+      "total": 307.24
+    }
+  ],
+  "total_order_cost_all_types": 408.75
+},
+{
+  "_id": 5,
+  "total_order_cost_per_type": [
+    {
+      "type": "Other",
+      "total": 140.41
+    },
+    {
+      "type": "Fresh",
+      "total": 134.09
+    }
+  ],
+  "total_order_cost_all_types": 274.5
+}]

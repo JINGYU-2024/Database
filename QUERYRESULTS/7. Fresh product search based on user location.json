@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "6767693633fe265a434485b6"
+  },
+  "product_name": "Bananas",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485b7"
+  },
+  "product_name": "Apples",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485b8"
+  },
+  "product_name": "Carrots",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485b9"
+  },
+  "product_name": "Lettuce",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485ba"
+  },
+  "product_name": "Strawberries",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485bb"
+  },
+  "product_name": "Bread",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485bc"
+  },
+  "product_name": "Croissants",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485bd"
+  },
+  "product_name": "Bagels",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485be"
+  },
+  "product_name": "Muffins",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485bf"
+  },
+  "product_name": "Sourdough",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485c0"
+  },
+  "product_name": "Orange Juice",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485c1"
+  },
+  "product_name": "Milk",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485c2"
+  },
+  "product_name": "Sparkling Water",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485c3"
+  },
+  "product_name": "Cola",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485c4"
+  },
+  "product_name": "Green Tea",
+  "store_details": []
+}]

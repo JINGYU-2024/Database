@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6767693633fe265a434485b6"
+  },
+  "product_name": "Bananas",
+  "category": "Fruits and Vegetables",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485b7"
+  },
+  "product_name": "Apples",
+  "category": "Fruits and Vegetables",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485b8"
+  },
+  "product_name": "Carrots",
+  "category": "Fruits and Vegetables",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485b9"
+  },
+  "product_name": "Lettuce",
+  "category": "Fruits and Vegetables",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485ba"
+  },
+  "product_name": "Strawberries",
+  "category": "Fruits and Vegetables",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485bb"
+  },
+  "product_name": "Bread",
+  "category": "Bakery",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485bc"
+  },
+  "product_name": "Croissants",
+  "category": "Bakery",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485bd"
+  },
+  "product_name": "Bagels",
+  "category": "Bakery",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485be"
+  },
+  "product_name": "Muffins",
+  "category": "Bakery",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485bf"
+  },
+  "product_name": "Sourdough",
+  "category": "Bakery",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485c0"
+  },
+  "product_name": "Orange Juice",
+  "category": "Drinks",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485c1"
+  },
+  "product_name": "Milk",
+  "category": "Drinks",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485c2"
+  },
+  "product_name": "Sparkling Water",
+  "category": "Drinks",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485c3"
+  },
+  "product_name": "Cola",
+  "category": "Drinks",
+  "store_details": []
+},
+{
+  "_id": {
+    "$oid": "6767693633fe265a434485c4"
+  },
+  "product_name": "Green Tea",
+  "category": "Drinks",
+  "store_details": []
+}]

@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cca"
+  },
+  "product": 1,
+  "date": "2024-12-20",
+  "inventory_quantity": 5,
+  "storage_warehouse_name": "Warehouse 1",
+  "storage_warehouse_location": "53.4895, -2.2462"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cce"
+  },
+  "product": 3,
+  "date": "2024-12-20",
+  "inventory_quantity": 3,
+  "storage_warehouse_name": "Warehouse 1",
+  "storage_warehouse_location": "53.4842, -2.2401"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cd0"
+  },
+  "product": 4,
+  "date": "2024-12-20",
+  "inventory_quantity": 1,
+  "storage_warehouse_name": "Warehouse 1",
+  "storage_warehouse_location": "53.4813, -2.2469"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cde"
+  },
+  "product": 11,
+  "date": "2024-12-20",
+  "inventory_quantity": 4,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4811, -2.2466"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076ce9"
+  },
+  "product": 16,
+  "date": "2024-12-21",
+  "inventory_quantity": 8,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4809, -2.2470"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cef"
+  },
+  "product": 19,
+  "date": "2024-12-21",
+  "inventory_quantity": 1,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4895, -2.2478"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cf2"
+  },
+  "product": 21,
+  "date": "2024-12-20",
+  "inventory_quantity": 5,
+  "storage_warehouse_name": "Warehouse 2",
+  "storage_warehouse_location": "53.4802, -2.2463"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076cf6"
+  },
+  "product": 23,
+  "date": "2024-12-20",
+  "inventory_quantity": 2,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4886, -2.2436"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d05"
+  },
+  "product": 30,
+  "date": "2024-12-21",
+  "inventory_quantity": 5,
+  "storage_warehouse_name": "Warehouse 3",
+  "storage_warehouse_location": "53.4884, -2.2409"
+},
+{
+  "_id": {
+    "$oid": "67676e4fdb59d3c185076d0e"
+  },
+  "product": 35,
+  "date": "2024-12-20",
+  "inventory_quantity": 6,
+  "storage_warehouse_name": "Warehouse 4",
+  "storage_warehouse_location": "53.4851, -2.2430"
+}]
