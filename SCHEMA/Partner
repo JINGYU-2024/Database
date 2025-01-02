@@ -1,59 +1,145 @@
 [{
   "_id": {
-    "$oid": "67676cdf9cb193bad17501e3"
+    "$oid": "67734382f3d40a33abceb088"
   },
   "name": "John Doe",
-  "location": "53.4820, -2.2450",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.4808,
+      -2.2426
+    ]
+  },
+  "rating": 4.7,
   "status": "Idle",
-  "delivery_errand": false,
-  "orders": [],
-  "pay_outs": 1200.5
+  "orders": [
+    {
+      "order ID": {
+        "$oid": "677338e2cd2f3d83b9a8b86b"
+      },
+      "status": "Completed"
+    },
+    {
+      "order ID": {
+        "$oid": "677338e2cd2f3d83b9a8b86c"
+      },
+      "status": "Active"
+    }
+  ]
 },
 {
   "_id": {
-    "$oid": "67676cdf9cb193bad17501e4"
+    "$oid": "67734382f3d40a33abceb089"
   },
   "name": "Jane Smith",
-  "location": "53.4800, -2.2400",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.4857,
+      -2.2437
+    ]
+  },
+  "rating": 4.8,
   "status": "Active",
-  "delivery_errand": true,
   "orders": [
-    1
-  ],
-  "pay_outs": 1500
+    {
+      "order ID": {
+        "$oid": "677338e2cd2f3d83b9a8b86d"
+      },
+      "status": "Active"
+    },
+    {
+      "order ID": {
+        "$oid": "677338e2cd2f3d83b9a8b86e"
+      },
+      "status": "Completed"
+    }
+  ]
 },
 {
   "_id": {
-    "$oid": "67676cdf9cb193bad17501e5"
+    "$oid": "67734382f3d40a33abceb08a"
   },
-  "name": "Paul Johnson",
-  "location": "53.4830, -2.2460",
+  "name": "Chris Johnson",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.4788,
+      -2.24
+    ]
+  },
+  "rating": 4.5,
   "status": "Idle",
-  "delivery_errand": false,
-  "orders": [],
-  "pay_outs": 900
+  "orders": [
+    {
+      "order ID": {
+        "$oid": "677338e2cd2f3d83b9a8b86f"
+      },
+      "status": "Completed"
+    },
+    {
+      "order ID": {
+        "$oid": "677338e2cd2f3d83b9a8b870"
+      },
+      "status": "Active"
+    }
+  ]
 },
 {
   "_id": {
-    "$oid": "67676cdf9cb193bad17501e6"
+    "$oid": "67734382f3d40a33abceb08b"
   },
-  "name": "Emily Brown",
-  "location": "53.4815, -2.2430",
+  "name": "Emily Davis",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.4871,
+      -2.2495
+    ]
+  },
+  "rating": 4.9,
   "status": "Active",
-  "delivery_errand": true,
   "orders": [
-    2
-  ],
-  "pay_outs": 1700.75
+    {
+      "order ID": {
+        "$oid": "677338e2cd2f3d83b9a8b871"
+      },
+      "status": "Active"
+    },
+    {
+      "order ID": {
+        "$oid": "677338e2cd2f3d83b9a8b872"
+      },
+      "status": "Completed"
+    }
+  ]
 },
 {
   "_id": {
-    "$oid": "67676cdf9cb193bad17501e7"
+    "$oid": "67734382f3d40a33abceb08c"
   },
-  "name": "Michael Lee",
-  "location": "53.4845, -2.2475",
+  "name": "Michael Brown",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.49,
+      -2.2432
+    ]
+  },
+  "rating": 4.6,
   "status": "Idle",
-  "delivery_errand": false,
-  "orders": [],
-  "pay_outs": 800
+  "orders": [
+    {
+      "order ID": {
+        "$oid": "677338e2cd2f3d83b9a8b873"
+      },
+      "status": "Completed"
+    },
+    {
+      "order ID": {
+        "$oid": "677338e2cd2f3d83b9a8b874"
+      },
+      "status": "Active"
+    }
+  ]
 }]
