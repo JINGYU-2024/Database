@@ -1,290 +1,228 @@
 [{
   "_id": {
-    "$oid": "67676a9b3d7fd651c3a00a0b"
+    "$oid": "67733a8ae8108718d0d654d7"
   },
-  "product_name": "The Great Gatsby",
-  "category": "Books",
-  "standard_price_to_customers": 10.5,
-  "average_customer_rating_score": 4.8,
-  "detailed_information": {
-    "short_description": "Classic novel by F. Scott Fitzgerald",
-    "shipping_weight": "500g",
-    "dimensions": "20x15x2",
-    "author_name": [
-      "F. Scott Fitzgerald"
-    ],
+  "product name": "The Great Gatsby",
+  "category": "book",
+  "standard price to customers": 10.99,
+  "average customer rating score": 4.7,
+  "detailed information": {
+    "short description": "A classic novel by F. Scott Fitzgerald",
+    "dimensions": "8x5x1 inches",
+    "shipping weight": "500g",
+    "author name": "F. Scott Fitzgerald",
     "publisher": "Scribner",
-    "year_of_publication": 1925,
+    "year of publication": 1925,
     "ISBN": "9780743273565"
   },
-  "cost_of_products_from_suppliers": 7
+  "cost of products from suppliers": 7
 },
 {
   "_id": {
-    "$oid": "67676a9b3d7fd651c3a00a0c"
+    "$oid": "67733a8ae8108718d0d654d8"
   },
-  "product_name": "1984",
-  "category": "Books",
-  "standard_price_to_customers": 8.5,
-  "average_customer_rating_score": 4.7,
-  "detailed_information": {
-    "short_description": "Dystopian novel by George Orwell",
-    "shipping_weight": "400g",
-    "dimensions": "20x15x2",
-    "author_name": [
-      "George Orwell"
-    ],
-    "publisher": "Penguin",
-    "year_of_publication": 1949,
+  "product name": "1984",
+  "category": "book",
+  "standard price to customers": 9.99,
+  "average customer rating score": 4.8,
+  "detailed information": {
+    "short description": "A dystopian novel by George Orwell",
+    "dimensions": "8x5x1 inches",
+    "shipping weight": "450g",
+    "author name": "George Orwell",
+    "publisher": "Harcourt Brace",
+    "year of publication": 1949,
     "ISBN": "9780451524935"
   },
-  "cost_of_products_from_suppliers": 5.5
+  "cost of products from suppliers": 6.5
 },
 {
   "_id": {
-    "$oid": "67676a9b3d7fd651c3a00a0d"
+    "$oid": "67733a8ae8108718d0d654d9"
   },
-  "product_name": "To Kill a Mockingbird",
-  "category": "Books",
-  "standard_price_to_customers": 12,
-  "average_customer_rating_score": 4.9,
-  "detailed_information": {
-    "short_description": "Novel by Harper Lee",
-    "shipping_weight": "450g",
-    "dimensions": "20x15x2",
-    "author_name": [
-      "Harper Lee"
-    ],
+  "product name": "To Kill a Mockingbird",
+  "category": "book",
+  "standard price to customers": 8.99,
+  "average customer rating score": 4.9,
+  "detailed information": {
+    "short description": "A novel by Harper Lee",
+    "dimensions": "8x5x1 inches",
+    "shipping weight": "460g",
+    "author name": "Harper Lee",
     "publisher": "J.B. Lippincott & Co.",
-    "year_of_publication": 1960,
-    "ISBN": "9780060935467"
+    "year of publication": 1960,
+    "ISBN": "9780061120084"
   },
-  "cost_of_products_from_suppliers": 8
+  "cost of products from suppliers": 5.5
 },
 {
   "_id": {
-    "$oid": "67676a9b3d7fd651c3a00a0e"
+    "$oid": "67733a8ae8108718d0d654da"
   },
-  "product_name": "Moby Dick",
-  "category": "Books",
-  "standard_price_to_customers": 11,
-  "average_customer_rating_score": 4.6,
-  "detailed_information": {
-    "short_description": "Adventure novel by Herman Melville",
-    "shipping_weight": "500g",
-    "dimensions": "20x15x3",
-    "author_name": [
-      "Herman Melville"
-    ],
+  "product name": "Pride and Prejudice",
+  "category": "book",
+  "standard price to customers": 7.99,
+  "average customer rating score": 4.6,
+  "detailed information": {
+    "short description": "A novel by Jane Austen",
+    "dimensions": "8x5x1 inches",
+    "shipping weight": "480g",
+    "author name": "Jane Austen",
+    "publisher": "Penguin Classics",
+    "year of publication": 1813,
+    "ISBN": "9780141199078"
+  },
+  "cost of products from suppliers": 5
+},
+{
+  "_id": {
+    "$oid": "67733a8ae8108718d0d654db"
+  },
+  "product name": "Moby Dick",
+  "category": "book",
+  "standard price to customers": 12.99,
+  "average customer rating score": 4.5,
+  "detailed information": {
+    "short description": "A novel by Herman Melville",
+    "dimensions": "9x6x2 inches",
+    "shipping weight": "700g",
+    "author name": "Herman Melville",
     "publisher": "Harper & Brothers",
-    "year_of_publication": 1851,
+    "year of publication": 1851,
     "ISBN": "9780142437247"
   },
-  "cost_of_products_from_suppliers": 7.5
+  "cost of products from suppliers": 8
 },
 {
   "_id": {
-    "$oid": "67676a9b3d7fd651c3a00a0f"
+    "$oid": "67733a8ae8108718d0d654dc"
   },
-  "product_name": "Pride and Prejudice",
-  "category": "Books",
-  "standard_price_to_customers": 9,
-  "average_customer_rating_score": 4.8,
-  "detailed_information": {
-    "short_description": "Romantic novel by Jane Austen",
-    "shipping_weight": "350g",
-    "dimensions": "18x12x2",
-    "author_name": [
-      "Jane Austen"
-    ],
-    "publisher": "Thomas Egerton",
-    "year_of_publication": 1813,
-    "ISBN": "9781503290563"
+  "product name": "War and Peace",
+  "category": "book",
+  "standard price to customers": 15.99,
+  "average customer rating score": 4.4,
+  "detailed information": {
+    "short description": "A novel by Leo Tolstoy",
+    "dimensions": "10x7x3 inches",
+    "shipping weight": "1kg",
+    "author name": "Leo Tolstoy",
+    "publisher": "Vintage",
+    "year of publication": 1869,
+    "ISBN": "9781400079988"
   },
-  "cost_of_products_from_suppliers": 6
+  "cost of products from suppliers": 10
 },
 {
   "_id": {
-    "$oid": "67676a9b3d7fd651c3a00a10"
+    "$oid": "67733a8ae8108718d0d654dd"
   },
-  "product_name": "Thriller Album",
-  "category": "CDs",
-  "standard_price_to_customers": 15,
-  "average_customer_rating_score": 4.9,
-  "detailed_information": {
-    "short_description": "Michael Jackson's best-selling album",
-    "shipping_weight": "200g",
-    "dimensions": "12x12x1",
-    "artist_name": "Michael Jackson",
-    "number_of_tracks": 9,
-    "total_playing_time": 42
+  "product name": "The Catcher in the Rye",
+  "category": "book",
+  "standard price to customers": 9.5,
+  "average customer rating score": 4.3,
+  "detailed information": {
+    "short description": "A novel by J.D. Salinger",
+    "dimensions": "8x5x1 inches",
+    "shipping weight": "450g",
+    "author name": "J.D. Salinger",
+    "publisher": "Little, Brown and Company",
+    "year of publication": 1951,
+    "ISBN": "9780316769488"
   },
-  "cost_of_products_from_suppliers": 10
+  "cost of products from suppliers": 6.5
 },
 {
   "_id": {
-    "$oid": "67676a9b3d7fd651c3a00a11"
+    "$oid": "67733a8ae8108718d0d654de"
   },
-  "product_name": "Back in Black",
-  "category": "CDs",
-  "standard_price_to_customers": 13,
-  "average_customer_rating_score": 4.8,
-  "detailed_information": {
-    "short_description": "AC/DC's legendary rock album",
-    "shipping_weight": "250g",
-    "dimensions": "12x12x1",
-    "artist_name": "AC/DC",
-    "number_of_tracks": 10,
-    "total_playing_time": 41
+  "product name": "Animal Farm",
+  "category": "book",
+  "standard price to customers": 6.99,
+  "average customer rating score": 4.8,
+  "detailed information": {
+    "short description": "A satirical novel by George Orwell",
+    "dimensions": "8x5x1 inches",
+    "shipping weight": "400g",
+    "author name": "George Orwell",
+    "publisher": "Harcourt Brace",
+    "year of publication": 1945,
+    "ISBN": "9780451526342"
   },
-  "cost_of_products_from_suppliers": 9
+  "cost of products from suppliers": 4.5
 },
 {
   "_id": {
-    "$oid": "67676a9b3d7fd651c3a00a12"
+    "$oid": "67733a8ae8108718d0d654df"
   },
-  "product_name": "Abbey Road",
-  "category": "CDs",
-  "standard_price_to_customers": 14.5,
-  "average_customer_rating_score": 4.9,
-  "detailed_information": {
-    "short_description": "The Beatles' classic album",
-    "shipping_weight": "200g",
-    "dimensions": "12x12x1",
-    "artist_name": "The Beatles",
-    "number_of_tracks": 17,
-    "total_playing_time": 47
+  "product name": "Brave New World",
+  "category": "book",
+  "standard price to customers": 10,
+  "average customer rating score": 4.7,
+  "detailed information": {
+    "short description": "A dystopian novel by Aldous Huxley",
+    "dimensions": "8x5x1 inches",
+    "shipping weight": "460g",
+    "author name": "Aldous Huxley",
+    "publisher": "Harper Perennial",
+    "year of publication": 1932,
+    "ISBN": "9780060850524"
   },
-  "cost_of_products_from_suppliers": 11
+  "cost of products from suppliers": 6
 },
 {
   "_id": {
-    "$oid": "67676a9b3d7fd651c3a00a13"
+    "$oid": "67733a8ae8108718d0d654e0"
   },
-  "product_name": "The Dark Side of the Moon",
-  "category": "CDs",
-  "standard_price_to_customers": 15,
-  "average_customer_rating_score": 4.8,
-  "detailed_information": {
-    "short_description": "Pink Floyd's iconic album",
-    "shipping_weight": "300g",
-    "dimensions": "12x12x1",
-    "artist_name": "Pink Floyd",
-    "number_of_tracks": 10,
-    "total_playing_time": 43
+  "product name": "The Odyssey",
+  "category": "book",
+  "standard price to customers": 13.99,
+  "average customer rating score": 4.5,
+  "detailed information": {
+    "short description": "An epic poem by Homer",
+    "dimensions": "8x5x1.5 inches",
+    "shipping weight": "600g",
+    "author name": "Homer",
+    "publisher": "Penguin Classics",
+    "year of publication": -800,
+    "ISBN": "9780140268867"
   },
-  "cost_of_products_from_suppliers": 10
+  "cost of products from suppliers": 9
 },
 {
   "_id": {
-    "$oid": "67676a9b3d7fd651c3a00a14"
+    "$oid": "67733a8ae8108718d0d654e1"
   },
-  "product_name": "Rumours",
-  "category": "CDs",
-  "standard_price_to_customers": 14,
-  "average_customer_rating_score": 4.7,
-  "detailed_information": {
-    "short_description": "Fleetwood Mac's masterpiece",
-    "shipping_weight": "200g",
-    "dimensions": "12x12x1",
-    "artist_name": "Fleetwood Mac",
-    "number_of_tracks": 11,
-    "total_playing_time": 39
+  "product name": "Abbey Road",
+  "category": "cd",
+  "standard price to customers": 12.99,
+  "average customer rating score": 4.8,
+  "detailed information": {
+    "short description": "The Beatles' iconic album",
+    "dimensions": "5x5x0.5 inches",
+    "shipping weight": "150g",
+    "artist name": "The Beatles",
+    "number of tracks": 17,
+    "total playing time": 47,
+    "publisher": "Apple Records"
   },
-  "cost_of_products_from_suppliers": 9
+  "cost of products from suppliers": 8.5
 },
 {
   "_id": {
-    "$oid": "67676a9b3d7fd651c3a00a15"
+    "$oid": "67733a8ae8108718d0d654e2"
   },
-  "product_name": "iPhone 14",
-  "category": "Mobile Phones",
-  "standard_price_to_customers": 999,
-  "average_customer_rating_score": 4.9,
-  "detailed_information": {
-    "short_description": "Latest model of iPhone with 128GB storage",
-    "shipping_weight": "300g",
-    "dimensions": "15x7x1",
-    "brand": "Apple",
-    "model": "14",
-    "color": "Black",
-    "features": "5G, Dual Camera, iOS 16"
+  "product name": "Thriller",
+  "category": "cd",
+  "standard price to customers": 13.99,
+  "average customer rating score": 4.9,
+  "detailed information": {
+    "short description": "Michael Jackson's best-selling album",
+    "dimensions": "5x5x0.5 inches",
+    "shipping weight": "160g",
+    "artist name": "Michael Jackson",
+    "number of tracks": 9,
+    "total playing time": 42,
+    "publisher": "Epic Records"
   },
-  "cost_of_products_from_suppliers": 850
-},
-{
-  "_id": {
-    "$oid": "67676a9b3d7fd651c3a00a16"
-  },
-  "product_name": "Samsung Galaxy S23",
-  "category": "Mobile Phones",
-  "standard_price_to_customers": 899,
-  "average_customer_rating_score": 4.8,
-  "detailed_information": {
-    "short_description": "Flagship Samsung phone with 256GB storage",
-    "shipping_weight": "320g",
-    "dimensions": "15x7x1",
-    "brand": "Samsung",
-    "model": "S23",
-    "color": "Phantom Black",
-    "features": "5G, Triple Camera, Android 13"
-  },
-  "cost_of_products_from_suppliers": 800
-},
-{
-  "_id": {
-    "$oid": "67676a9b3d7fd651c3a00a17"
-  },
-  "product_name": "Google Pixel 7",
-  "category": "Mobile Phones",
-  "standard_price_to_customers": 599,
-  "average_customer_rating_score": 4.7,
-  "detailed_information": {
-    "short_description": "Google's latest Pixel with AI-enhanced features",
-    "shipping_weight": "290g",
-    "dimensions": "15x7x1",
-    "brand": "Google",
-    "model": "Pixel 7",
-    "color": "White",
-    "features": "5G, Dual Camera, Android 13"
-  },
-  "cost_of_products_from_suppliers": 500
-},
-{
-  "_id": {
-    "$oid": "67676a9b3d7fd651c3a00a18"
-  },
-  "product_name": "OnePlus 11",
-  "category": "Mobile Phones",
-  "standard_price_to_customers": 699,
-  "average_customer_rating_score": 4.6,
-  "detailed_information": {
-    "short_description": "OnePlus flagship with ultra-fast charging",
-    "shipping_weight": "310g",
-    "dimensions": "16x7x1",
-    "brand": "OnePlus",
-    "model": "11",
-    "color": "Green",
-    "features": "5G, Triple Camera, Android 13"
-  },
-  "cost_of_products_from_suppliers": 600
-},
-{
-  "_id": {
-    "$oid": "67676a9b3d7fd651c3a00a19"
-  },
-  "product_name": "Sony Xperia 5",
-  "category": "Mobile Phones",
-  "standard_price_to_customers": 799,
-  "average_customer_rating_score": 4.5,
-  "detailed_information": {
-    "short_description": "Sony's compact powerhouse with 4K display",
-    "shipping_weight": "290g",
-    "dimensions": "15x7x1",
-    "brand": "Sony",
-    "model": "Xperia 5",
-    "color": "Blue",
-    "features": "5G, Dual Camera, Android 13"
-  },
-  "cost_of_products_from_suppliers": 700
+  "cost of products from suppliers": 9
 }]
