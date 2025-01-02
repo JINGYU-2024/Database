@@ -1,45 +1,145 @@
 [{
   "_id": {
-    "$oid": "67676b9c6343fe3d3dc6bf08"
+    "$oid": "67734377f3d40a33abceb083"
   },
-  "name": "Store 1",
-  "address": "123 Main Street, Manchester",
-  "location": "53.4808, -2.2426",
-  "postcode": "M1 1AE"
+  "name": "Morrizon - Central Manchester",
+  "address": "123 High Street",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.4794,
+      -2.2453
+    ]
+  },
+  "postcode": "M1 1AA",
+  "available products": [
+    {
+      "product ID": {
+        "$oid": "677331a0b023c13dbc89b33c"
+      },
+      "stock quantity": 50
+    },
+    {
+      "product ID": {
+        "$oid": "677331a0b023c13dbc89b33d"
+      },
+      "stock quantity": 30
+    }
+  ]
 },
 {
   "_id": {
-    "$oid": "67676b9c6343fe3d3dc6bf09"
+    "$oid": "67734377f3d40a33abceb084"
   },
-  "name": "Store 2",
-  "address": "456 Market Street, Manchester",
-  "location": "53.4810, -2.2400",
-  "postcode": "M1 3AE"
+  "name": "Morrizon - South Manchester",
+  "address": "456 South Road",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.4252,
+      -2.2935
+    ]
+  },
+  "postcode": "M2 2BB",
+  "available products": [
+    {
+      "product ID": {
+        "$oid": "677331a0b023c13dbc89b33e"
+      },
+      "stock quantity": 60
+    },
+    {
+      "product ID": {
+        "$oid": "677331a0b023c13dbc89b33f"
+      },
+      "stock quantity": 40
+    }
+  ]
 },
 {
   "_id": {
-    "$oid": "67676b9c6343fe3d3dc6bf0a"
+    "$oid": "67734377f3d40a33abceb085"
   },
-  "name": "Store 3",
-  "address": "789 High Street, Manchester",
-  "location": "53.4835, -2.2450",
-  "postcode": "M1 5AE"
+  "name": "Morrizon - North Manchester",
+  "address": "789 North Lane",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.5308,
+      -2.2361
+    ]
+  },
+  "postcode": "M3 3CC",
+  "available products": [
+    {
+      "product ID": {
+        "$oid": "677331a0b023c13dbc89b340"
+      },
+      "stock quantity": 70
+    },
+    {
+      "product ID": {
+        "$oid": "677331a0b023c13dbc89b341"
+      },
+      "stock quantity": 20
+    }
+  ]
 },
 {
   "_id": {
-    "$oid": "67676b9c6343fe3d3dc6bf0b"
+    "$oid": "67734377f3d40a33abceb086"
   },
-  "name": "Store 4",
-  "address": "321 Elm Avenue, Manchester",
-  "location": "53.4790, -2.2475",
-  "postcode": "M1 7AE"
+  "name": "Morrizon - East Manchester",
+  "address": "101 East Avenue",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.4857,
+      -2.1832
+    ]
+  },
+  "postcode": "M4 4DD",
+  "available products": [
+    {
+      "product ID": {
+        "$oid": "677331a0b023c13dbc89b342"
+      },
+      "stock quantity": 25
+    },
+    {
+      "product ID": {
+        "$oid": "677331a0b023c13dbc89b343"
+      },
+      "stock quantity": 45
+    }
+  ]
 },
 {
   "_id": {
-    "$oid": "67676b9c6343fe3d3dc6bf0c"
+    "$oid": "67734377f3d40a33abceb087"
   },
-  "name": "Store 5",
-  "address": "654 Oak Lane, Manchester",
-  "location": "53.4820, -2.2430",
-  "postcode": "M1 9AE"
+  "name": "Morrizon - West Manchester",
+  "address": "202 West Street",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.4788,
+      -2.3176
+    ]
+  },
+  "postcode": "M5 5EE",
+  "available products": [
+    {
+      "product ID": {
+        "$oid": "677331a0b023c13dbc89b344"
+      },
+      "stock quantity": 55
+    },
+    {
+      "product ID": {
+        "$oid": "677331a0b023c13dbc89b345"
+      },
+      "stock quantity": 35
+    }
+  ]
 }]
