@@ -1,37 +1,35 @@
-db.getCollection(
-  'Amazone.Current Order'
-).aggregate(
-  [
-    { $match: { order_type: 'Fresh' } },
+db.CurrentOrder.aggregate([
     {
-      $lookup: {
-        from: 'Amazone.Fresh Product',
-        localField:
-          'current_order_item.product_ID',
-        foreignField: '_id',
-        as: 'product_details'
-      }
+        $match: {
+            order_type: "Fresh", 
+            delivery_method: "delivery"
+        }
     },
     {
-      $lookup: {
-        from: 'Amazone.Partner',
-        let: { store_ID: '$store_ID' },
-        pipeline: [
-          { $match: { status: 'Idle' } },
-          { $limit: 1 }
-        ],
-        as: 'partner_details'
-      }
+        $lookup: {
+            from: "Customer",
+            localField: "customer_ID",
+            foreignField: "customer_ID",
+            as: "customer_details"
+        }
     },
     {
-      $project: {
-        customer: 1,
-        order_cost: 1,
-        'product_details.product_name': 1,
-        'partner_details.name': 1,
-        'partner_details.location': 1
-      }
+        $lookup: {
+            from: "AmazonePartner",
+            localField: "partner_ID",
+            foreignField: "partner_ID",
+            as: "delivery_partner"
+        }
+    },
+    {
+        $project: {
+            order_cost: 1,
+            "customer_details.name": 1,
+            "customer_details.shipping_address": 1,
+            current_order_item: 1,
+            "delivery_partner.name": 1,
+            "delivery_partner.rating": 1,
+            "delivery_partner.location": 1
+        }
     }
-  ],
-  { maxTimeMS: 60000, allowDiskUse: true }
-);
+])
